@@ -18,3 +18,5 @@ Scramble: Click the "Scramble Cube" button to generate a new puzzle.
 Solve: Click the "Solve Cube" button. The solver will run, and the solution steps will appear in the right-hand panel (or below the cube on smaller screens).
 Manual Moves: Use the U, D, R, L, F, B and U', D', R', L', F', B' buttons to rotate the faces manually.
 Reset: Click the "Reset to Solved" button to return the cube to its initial, solved state.
+
+![image](https://github.com/user-attachments/assets/2196af0b-79f7-485b-9f67-8fcc204822a1)
